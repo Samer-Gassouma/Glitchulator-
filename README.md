@@ -2,6 +2,10 @@
 
 A massively over-engineered calculator that turns simple arithmetic into an enterprise-grade catastrophe. Because sometimes you need a factory factory factory pattern just to add 2+2.
 
+## Live Demo
+
+🌐 [Try it live](https://glitchulator-a2ld.vercel.app/) - Warning: Use at your own temporal risk
+
 # Features
 
 - **Over-Engineered Architecture**: Each arithmetic operation is its own microservice with 17 layers of abstraction
@@ -53,3 +57,5 @@ npm run dev
 ```bash
 http://localhost:3000
 ```
+
+Or visit the hosted version at [https://glitchulator-a2ld.vercel.app/](https://glitchulator-a2ld.vercel.app/)
